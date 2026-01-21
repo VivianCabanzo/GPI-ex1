@@ -1,1 +1,4 @@
-# GPI-ex1
+- Vivian Cabanzo
+- 202513800
+- Soy economista y profesional en negocios internacionales, tengo 27 años y me apasiona el análisis de datos, actualmente trabajo como consultora senior de estrategia en datos y evaluación financiera de proyectos de inversión.
+- Inscribí este curso porque siento que en mi experiencia profesional he ofrecito bastantes soluciones a partir de la estrategía en datos pero sin llevar bien ejecutadas buenas practicas de investigación y manejo de datos. 
